@@ -1,0 +1,18 @@
+{"id":"openorca","category":"sft","link":"https://huggingface.co/datasets/Open-Orca/OpenOrca","notes":"High-quality instruction-following data distilled from GPT-4-level reasoning."}
+{"id":"ultrachat","category":"sft","link":"https://huggingface.co/datasets/stingning/ultrachat","notes":"Large multi-turn conversational dataset for dialogue training."}
+{"id":"openhermes_25","category":"sft","link":"https://huggingface.co/datasets/teknium/OpenHermes-2.5","notes":"Clean, diverse instruction dataset widely used in top open-source models."}
+{"id":"aya","category":"sft","link":"https://huggingface.co/datasets/CohereForAI/aya_dataset","notes":"Multilingual instruction dataset with broad global coverage."}
+{"id":"openmathinstruct_1","category":"math","link":"https://huggingface.co/datasets/NVIDIA/OpenMathInstruct-1","notes":"Massive math reasoning dataset with chain-of-thought style instructions."}
+{"id":"cosmopedia_full","category":"reasoning","link":"https://huggingface.co/datasets/NousResearch/Cosmopedia","notes":"High-diversity synthetic knowledge and reasoning corpus."}
+{"id":"cosmopedia_100k","category":"reasoning","link":"https://huggingface.co/datasets/NousResearch/Cosmopedia-100k","notes":"Smaller distilled version optimized for fast SFT."}
+{"id":"qwen3_coder","category":"code","link":"https://huggingface.co/datasets/Qwen/Qwen2.5-Coder","notes":"High-quality code instructions used in frontier-level coder models."}
+{"id":"code_feedback","category":"code","link":"https://huggingface.co/datasets/m-a-p/Code-Feedback","notes":"Code + unit-test-verified feedback loops for correctness training."}
+{"id":"prompts_chat","category":"code","link":"https://huggingface.co/datasets/fka/prompts-chat","notes":"Large prompt-instruction dataset for code and general tasks."}
+{"id":"refinedweb","category":"pretrain","link":"https://huggingface.co/datasets/tiiuae/falcon-refinedweb","notes":"Curated web-scale corpus with nearly 1B documents for base-model pretraining."}
+{"id":"cosmopedia_pretrain","category":"pretrain","link":"https://huggingface.co/datasets/NousResearch/Cosmopedia","notes":"Synthetic high-quality pretraining corpus with broad domain coverage."}
+{"id":"hh_rlhf","category":"rlhf","link":"https://huggingface.co/datasets/Anthropic/hh-rlhf","notes":"Gold-standard human preference dataset for helpful/harmless alignment."}
+{"id":"openorca_pref","category":"rlhf","link":"https://huggingface.co/datasets/Open-Orca/OpenOrca","notes":"Useful for both SFT and preference modeling due to high reasoning quality."}
+{"id":"llm_datasets_registry","category":"meta","link":"https://github.com/mlabonne/llm-datasets","notes":"Curated list of top post-training datasets across domains."}
+{"id":"projectpro_llm_list","category":"meta","link":"https://www.projectpro.io/article/llm-datasets/1137","notes":"Categorized list of datasets for text, code, and reasoning tasks."}
+{"id":"brightcoding_list","category":"meta","link":"https://brightcoding.dev/blog/llm-datasets","notes":"Curated SFT and RLHF dataset list for training pipelines."}
+{"id":"analyticsvidhya_llm_list","category":"meta","link":"https://www.analyticsvidhya.com/blog/2023/10/top-10-open-source-datasets-for-llm-training/","notes":"Overview of open-source pretraining corpora."}
