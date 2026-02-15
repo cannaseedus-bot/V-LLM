@@ -98,6 +98,7 @@ tensor_format:
       {
         "id": "cube_embedding",
         "vector": [0.23, -0.45, 0.67, ...],
+        "vector": [0.23, -0.45, 0.67, "..."],
         "position": [0, 0, 0],
         "confidence": 0.98
       }
